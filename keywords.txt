@@ -1,0 +1,5 @@
+KEYWORD1 shiniCompass
+KEYWORD2 begin
+KEYWORD2 read
+
+
